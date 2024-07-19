@@ -3,5 +3,3 @@
 => Programing Lanuguages 💻 : Java , Python , JavaScript [basics] , HTML , CSS.
 
 => Fimiliar FrameWorks : Bootstrap , Django [Python].
-
-=> Connect me on LinkedIn : [Parth Bhogayata](https://www.linkedin.com/in/parth-b-b582b2213/)
